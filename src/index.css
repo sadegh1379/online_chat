@@ -1,0 +1,21 @@
+@font-face {
+  font-family: BYekan;
+  src: url('./font/BYekan.ttf') , url('./font/BYekan.eot') , url('./font/BYekan.woff');
+}
+body , html  , #root {
+  margin: 0;
+  height: 100%;
+  
+    
+  
+  
+  
+}
+*{
+  font-family: BYekan;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
